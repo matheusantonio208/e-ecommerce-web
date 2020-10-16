@@ -29,7 +29,7 @@
       "react/state-in-constructor":"off",
       "camelcase": "off",
       "no-unused-vars": ["error", { "argsIgnorePattern": "next" }],
-      "no-console": ["error", { "allow": ["warn"] }]
+      "no-console": ["error", { "allow": ["warn"] }],
 			"react/jsx-filename-extension": ["warn", {"extensions": [".jsx", ".js"] } ],
 			"import/prefer-default-export": "off"
     }
